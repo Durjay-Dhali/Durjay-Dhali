@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, C++**
 
-- 📫 How to reach me **durjaydhali366@gmail.com**
-
 - 📄 Know about me [https://durjay.netlify.app](https://durjay.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
